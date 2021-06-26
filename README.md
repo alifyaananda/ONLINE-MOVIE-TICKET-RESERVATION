@@ -1,0 +1,2 @@
+ONLINE-MOVIE-TICKET-RESERVATION
+This source code is made by Aisyah Ramadhanti Hashmi, Alifya Ananda Khairany, and Fanissa Zahra Attalia as final programming assignment in Even Semester 2020/2021 for course Basic Computer + Lab. (ENEE603014) in Undergraduate of Electrical Engineering study program, Department of Electrical Engineering, Faculty of Engineering, Universitas Indonesia. Licence: free to use for non commercial purposes
