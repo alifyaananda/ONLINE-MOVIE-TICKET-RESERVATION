@@ -1,0 +1,12 @@
+PROGRAM PROYEK AKHIR DASAR KOMPUTER - 02
+
+Group 8:
+- Aisyah Ramadhanti Hashmi (1906305511)
+- Alifya Ananda Khairany (1906384226)
+- Fanissa Zahra Atalia (1906307624)
+
+Link Github:
+https://github.com/aisyahrh/ONLINE-MOVIE-TICKET-RESERVATION
+
+Link Video Penjelasan:
+https://youtu.be/50RNv0WY0hE
